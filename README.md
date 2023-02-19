@@ -1,10 +1,10 @@
 # mysql-query-store-procedure
 
 ## create.sql
-###### create table users, borrowers, loans, statuses, provimces
+###### create table users, borrowers, loans, statuses, provinces
 
 ## insert.sql
-###### insert for table users, borrowers, loans, statuses, provimces
+###### insert for table users, borrowers, loans, statuses, provinces
 
 ## store_procedure_based_onunique_users_by_age_date_and_status_loan.sql
 ###### Store Procedure based on unique user by age date and status loan
